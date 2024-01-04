@@ -10,9 +10,9 @@ def hello_world():
 @app.route('/insert', methods=['POST'])
 def insert():
     
-    UserRepo = UserRepo()
+    userRepo = UserRepo()
     body = request.json
     
-    UserRepo.insert_user(body['name'])
+    userRepo.insert_user(body['name'])
 
     return 'OK'
