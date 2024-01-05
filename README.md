@@ -1,7 +1,9 @@
 # 1. Docker na prática
 Projeto de uma aplicação web simples em python/flask com mysql deployed by docker
 
-O projeto segue as aulas da playlist de docker na Prática com Python
+O projeto segue as aulas da playlist de docker na Prática com Python do canal programador lhama :
+
+https://www.youtube.com/playlist?list=PLAgbpJQADBGIDbMSopaqFnGm7GJnwru0-
 
 # 2. Docker 
 
