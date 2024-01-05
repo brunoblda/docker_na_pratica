@@ -18,6 +18,7 @@ services:
     build:
       context: .
     container_name: docker-python
+    restart: always
     ports:
       - 3000:5000
     depends_on:
